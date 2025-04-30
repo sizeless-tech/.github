@@ -1,3 +1,3 @@
 # sizeless
 
-Find us at [sizeless.co](sizeless.co)
+Find us at [https://www.sizeless.co](sizeless.co)
